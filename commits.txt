@@ -1,0 +1,63 @@
+commit 21e87aec77b7fed9e2a197f64bb574a653b8ec03
+Merge: a731217 febee83
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 20:02:05 2024 -0600
+
+    Fusionando la rama de programación I
+
+commit a7312177468da25263bf86513a00394d6d37f529
+Merge: 93c003e e861b76
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 20:00:17 2024 -0600
+
+    Fusionando la rama de fundamentos-de-los-computadores
+
+commit 93c003e56e49f231653dc921640a4ea7854108cc
+Merge: 050daf6 1106149
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:58:55 2024 -0600
+
+    Fusionando la rama de Algebra
+
+commit 050daf6a9feabd6e86f284319cf73ad3508123c4
+Merge: cff22e8 c3e64e3
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:57:59 2024 -0600
+
+    Fusionando las ramas de Introduccion a la ciberseguridad y matematicas
+
+commit febee83c4f82f99e7f6f70595f69d8638ddfe878
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:51:45 2024 -0600
+
+    Agregando la rama Progamación I e información al README
+
+commit e861b76d6dbec028d8c825b01b8950ce26b01ae7
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:31:44 2024 -0600
+
+    Agregando la rama Fundamentos de los computadores y agregando información al README
+
+commit 1106149e491d5126c7898b27d22a8448b340833f
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:19:08 2024 -0600
+
+    Creando rama de álgebra y agregando información al README
+
+commit c3e64e355bfe76a5065e25692d0187e5ed69183d
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 19:12:57 2024 -0600
+
+    Creando la rama Matemáticas y agregando información al README
+
+commit cff22e855615841841ee1b8dbc6e6631c7d32111
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 18:55:49 2024 -0600
+
+    Creando rama de Introducción a la Ciberseguridad y agregando información al README
+
+commit 2fa0fbe2a639fe7fb64af975e86b13bfec3418fb
+Author: LuisA731 <lmp.arroyo12@gmail.com>
+Date:   Mon Sep 16 18:36:35 2024 -0600
+
+    Primer commit
